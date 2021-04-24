@@ -6,8 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![alt text](https://github.com/iammeet071/NetflixSeriesCards-React/blob/main/public/ss/1.png) !
 ![alt text](https://github.com/iammeet071/NetflixSeriesCards-React/blob/main/public/ss/2.png) !
-![alt text](https://github.com/iammeet071/NetflixSeriesCards-React/blob/main/public/ss/3.png) !
-![alt text](https://github.com/iammeet071/NetflixSeriesCards-React/blob/main/public/ss/4.png) !
+
 
 ### `yarn start`
 
