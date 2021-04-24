@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-#Checkout At www.goog.com
+#Checkout this project currently at https://netflix-series-cards-react-5nzsj9b95-iammeet071.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
